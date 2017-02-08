@@ -12,4 +12,5 @@ public class Ladder {
 		endPosition= end;
 		colorElement= color;
 	}
+
 }
